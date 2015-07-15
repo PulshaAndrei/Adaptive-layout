@@ -1,4 +1,5 @@
 # Adaptive-layout
+Demo: http://pulshaandrei.github.io/Adaptive-layout/
 </br>
 <b>Требования:</b></br>
 1. верстка в соответствии с [макетом](https://drive.google.com/#folders/0B3UA7wlxcI_-c2cwOTVyMXVHQ28)</br>
